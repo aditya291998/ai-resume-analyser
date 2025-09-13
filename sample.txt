@@ -1,0 +1,52 @@
+Job Description: Mid-Level React Developer
+We are looking for a passionate Mid-Level React Developer to join our growing development team. The ideal candidate will have hands-on experience building interactive web applications, a solid understanding of JavaScript and React, and the ability to work collaboratively on scalable projects.
+
+Responsibilities
+Develop, maintain, and optimize front-end applications using React.js and modern JavaScript (ES6+).
+
+Collaborate with designers, product managers, and backend developers to deliver high-quality features.
+
+Write reusable, modular, and maintainable code while adhering to best practices.
+
+Build responsive and accessible UI components with a focus on performance and user experience.
+
+Troubleshoot, debug, and resolve technical issues efficiently.
+
+Participate in code reviews and contribute to continuous improvement in code quality and processes.
+
+Stay updated with the latest trends in front-end development and recommend improvements.
+
+Requirements
+2–4 years of professional front-end development experience with React.js.
+
+Strong proficiency in JavaScript, HTML5, and CSS3/SASS.
+
+Knowledge of React hooks, context API, and state management libraries (such as Redux or Zustand).
+
+Familiarity with REST APIs, GraphQL, and asynchronous request handling.
+
+Experience with version control systems, preferably Git.
+
+Understanding of component-driven development and best practices in UI development.
+
+Good grasp of responsive design, cross-browser compatibility, and accessibility standards.
+
+Strong problem-solving skills and ability to work collaboratively in an agile team environment.
+
+Nice to Have
+Experience with TypeScript.
+
+Exposure to testing frameworks (Jest, React Testing Library, Cypress).
+
+Knowledge of build tools and bundlers such as Webpack, Vite, or Babel.
+
+Familiarity with CI/CD pipelines and deployment workflows.
+
+Benefits
+Opportunity to contribute to challenging projects with real-world impact.
+
+Collaborative and supportive team culture.
+
+Professional growth opportunities through learning and mentorship.
+
+Flexible work options (remote/hybrid depending on location).
